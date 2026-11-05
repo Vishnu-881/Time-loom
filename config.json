@@ -1,0 +1,35 @@
+{
+  "categories": {
+    "Study": {
+      "weight": 1.0,
+      "color": "#2e74b5"
+    },
+    "Coding": {
+      "weight": 1.0,
+      "color": "#1f9d6b"
+    },
+    "Reading": {
+      "weight": 1.0,
+      "color": "#7b5ea7"
+    },
+    "Meetings": {
+      "weight": 0.5,
+      "color": "#e0a030"
+    },
+    "Social Media": {
+      "weight": 0.0,
+      "color": "#d9534f"
+    },
+    "Entertainment": {
+      "weight": 0.0,
+      "color": "#a0a0a0"
+    }
+  },
+  "focus": {
+    "work_minutes": 25,
+    "break_minutes": 5
+  },
+  "goals": {
+    "daily_focus_minutes": 240
+  }
+}
